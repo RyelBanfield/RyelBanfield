@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! 👋
+### This README is a work in progress. 
+### I'm a full stack developer in training so I will update this as I learn more. 
+
 
 <!--
 **RyelBanfield/RyelBanfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
