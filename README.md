@@ -1,6 +1,6 @@
 ### Hello! 👋
 ### This README is a work in progress. 
-### I'm a full stack developer in training so I will update this as I learn more. 
+### I'm a full-stack developer in training so I will update this as I learn more. 
 
 
 <!--
