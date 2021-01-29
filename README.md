@@ -1,6 +1,6 @@
 ## Hello! 👋
 ### This README is a work in progress. 
-#### I'm a full-stack developer in training so I will update this as I learn more. 
+#### I am remote full-stack dev student of @Microverse. 
 
 ### Here are my GitHub stats so far!
 ![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield&show_icons=true&theme=dracula)
