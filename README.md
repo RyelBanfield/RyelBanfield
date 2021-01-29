@@ -12,17 +12,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/RyelBanfield) 
 
-[]()
-[]()
-[]()
-[]()
-
-
-
-
-
-
-
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=default)
 
 <!--
 **RyelBanfield/RyelBanfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
