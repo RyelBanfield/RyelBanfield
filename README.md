@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-#### I am remote full-stack dev student at [Microverse](https://www.microverse.org/?grsf=knrm9p). 
+#### I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a remote full-stack dev student. 
 
 ### GitHub stats:
 
@@ -8,9 +8,13 @@
 
 ![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryelbanfield&theme=dracula)](https://github.com/ryelbanfield/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryelbanfield&theme=dracula)](https://github.com/ryelbanfield/github-readme-stats) 
 
-![Profile views](https://gpvc.arturio.dev/RyelBanfield) 
+#### This is my current mood while learning code: 
+
+![Happy Coding Guy](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif) 
+
+![Profile views](https://gpvc.arturio.dev/RyelBanfield)
 
 <!--
 **RyelBanfield/RyelBanfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
