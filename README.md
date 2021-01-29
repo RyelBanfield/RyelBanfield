@@ -1,6 +1,6 @@
 ## Hello! 👋
 ### This README is a work in progress. 
-#### I am remote full-stack dev student of @Microverse. 
+#### I am remote full-stack dev student at [Microverse](https://www.microverse.org/?grsf=knrm9p). 
 
 ### Here are my GitHub stats so far!
 ![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield&show_icons=true&theme=dracula)
