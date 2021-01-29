@@ -3,7 +3,7 @@
 ### I'm a full-stack developer in training so I will update this as I learn more. 
 
 [![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield)](https://github.com/RyelBanfield/github-readme-stats)
-![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield&show_icons=true&theme=dark)
+![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield&show_icons=true&theme=synthwave)
 
 <!--
 **RyelBanfield/RyelBanfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
