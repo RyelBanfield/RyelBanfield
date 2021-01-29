@@ -2,6 +2,8 @@
 ### This README is a work in progress. 
 #### I am remote full-stack dev student at [Microverse](https://www.microverse.org/?grsf=knrm9p). 
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=default)
+
 ### GitHub stats:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RyelBanfield)  
@@ -11,8 +13,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryelbanfield&theme=dracula)](https://github.com/ryelbanfield/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/RyelBanfield) 
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=grow_out_in&layout=default)
 
 <!--
 **RyelBanfield/RyelBanfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
