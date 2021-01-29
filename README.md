@@ -2,7 +2,7 @@
 ### This README is a work in progress. 
 #### I am remote full-stack dev student at [Microverse](https://www.microverse.org/?grsf=knrm9p). 
 
-### Here are my GitHub stats so far!
+### GitHub stats:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RyelBanfield)  
 
