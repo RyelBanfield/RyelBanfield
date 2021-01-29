@@ -4,6 +4,7 @@
 
 [![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield)](https://github.com/RyelBanfield/github-readme-stats)
 ![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryelbanfield)](https://github.com/ryelbanfield/github-readme-stats)
 
 <!--
 **RyelBanfield/RyelBanfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
