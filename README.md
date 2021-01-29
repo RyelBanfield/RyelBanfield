@@ -2,7 +2,9 @@
 ### This README is a work in progress. 
 ### I'm a full-stack developer in training so I will update this as I learn more. 
 
-![Jumping Dino](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+![Angry Coding Monkey](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+![Chill Coding Doggo](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
+![Happy Coding Guy](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
 
 ![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield&show_icons=true&theme=dracula)
 
