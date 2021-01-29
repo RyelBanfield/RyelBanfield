@@ -2,7 +2,7 @@
 ### This README is a work in progress. 
 ### I'm a full-stack developer in training so I will update this as I learn more. 
 
-https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif
+![Jumping Dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 ![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield&show_icons=true&theme=dracula)
 
