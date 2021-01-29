@@ -3,11 +3,19 @@
 #### I am remote full-stack dev student at [Microverse](https://www.microverse.org/?grsf=knrm9p). 
 
 ### Here are my GitHub stats so far!
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RyelBanfield)  
+
 ![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryelbanfield&theme=dracula)](https://github.com/ryelbanfield/github-readme-stats)
 
+![Profile views](https://gpvc.arturio.dev/RyelBanfield) 
 
+[]()
+[]()
+[]()
+[]()
 
 
 
