@@ -1,8 +1,8 @@
-# Hello! 👋
-## This README is a work in progress. 
-### I'm a full-stack developer in training so I will update this as I learn more. 
+## Hello! 👋
+### This README is a work in progress. 
+#### I'm a full-stack developer in training so I will update this as I learn more. 
 
-## Here's my GitHub stats so far!
+### Here's my GitHub stats so far!
 ![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryelbanfield&theme=dracula)](https://github.com/ryelbanfield/github-readme-stats)
