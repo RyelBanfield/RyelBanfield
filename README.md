@@ -2,7 +2,7 @@
 
 #### I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a remote full-stack dev student.
 
-### <img src="assets/Banner.png" width="100%">
+### <img src="assets/Banner.gif">
 
 ### GitHub stats:
 
@@ -17,6 +17,7 @@
 ![Happy Coding Guy](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
 
 ![Profile views](https://gpvc.arturio.dev/RyelBanfield)
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 <!--
 **RyelBanfield/RyelBanfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
