@@ -1,8 +1,8 @@
 ## Hello! 👋
 
-#### I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a remote full-stack dev student.
-
 ### <img src="assets/Banner-flicker.gif">
+
+#### I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a remote full-stack dev student.
 
 ### GitHub stats:
 
