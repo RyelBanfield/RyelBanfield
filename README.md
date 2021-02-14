@@ -1,18 +1,20 @@
 ## Hello! 👋
 
-#### I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a remote full-stack dev student. 
+#### I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a remote full-stack dev student.
+
+### <img src="assets/Banner.png" width="100%">
 
 ### GitHub stats:
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RyelBanfield)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RyelBanfield)
 
 ![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryelbanfield&theme=dracula)](https://github.com/ryelbanfield/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryelbanfield&theme=dracula)](https://github.com/ryelbanfield/github-readme-stats)
 
-#### This is my current mood while learning code: 
+#### This is my current mood while learning code:
 
-![Happy Coding Guy](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif) 
+![Happy Coding Guy](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
 
 ![Profile views](https://gpvc.arturio.dev/RyelBanfield)
 
