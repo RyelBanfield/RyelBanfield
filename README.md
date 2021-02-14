@@ -16,8 +16,9 @@
 
 ![Happy Coding Guy](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
 
-![Profile views](https://gpvc.arturio.dev/RyelBanfield)
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+
+![Profile views](https://gpvc.arturio.dev/RyelBanfield)
 
 <!--
 **RyelBanfield/RyelBanfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
