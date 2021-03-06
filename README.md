@@ -1,9 +1,8 @@
-### <img src="assets/Banner-flicker.gif">
-
 ![Metrics](https://github.com/RyelBanfield/RyelBanfield/blob/main/github-metrics.svg)
 
-
 <!--
+### <img src="assets/Banner-flicker.gif">
+
 ## Hey! 👋
 
 ### <img src="assets/Banner-flicker.gif">
