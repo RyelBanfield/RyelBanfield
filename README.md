@@ -1,3 +1,9 @@
+### <img src="assets/Banner-flicker.gif">
+
+![Metrics](https://github.com/RyelBanfield/RyelBanfield/blob/main/github-metrics.svg)
+
+
+<!--
 ## Hey! 👋
 
 ### <img src="assets/Banner-flicker.gif">
@@ -14,7 +20,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/RyelBanfield)
 
-<!--
+
 **RyelBanfield/RyelBanfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
