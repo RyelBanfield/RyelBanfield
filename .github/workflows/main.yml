@@ -19,8 +19,8 @@ jobs:
           # ... other options
           config_padding: 10%
           plugin_habits: yes
-          plugin_habits_from: 600       # Use 200 events to compute habits
-          plugin_habits_days: 90        # Keep only events from last 90 days
+          plugin_habits_from: 1000       # Use 200 events to compute habits
+          plugin_habits_days: 365        # Keep only events from last 365 days
           plugin_habits_facts: yes      # Display facts section
           plugin_habits_charts: yes     # Display charts section
           config_timezone: Europe/Paris # Set timezone
