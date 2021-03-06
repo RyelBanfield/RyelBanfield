@@ -1,22 +1,16 @@
-## Hello! 👋
+## Hey! 👋
 
 ### <img src="assets/Banner-flicker.gif">
 
-#### I am currently enrolled at [Microverse](https://www.microverse.org/?grsf=knrm9p) as a remote full-stack dev student.
+#### I am currently enrolled at ![](https://img.shields.io/badge/Microverse-blueviolet) as a remote full-stack dev student.
 
 ### GitHub stats:
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RyelBanfield)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RyelBanfield&theme=dracula)
 
 ![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryelbanfield&theme=dracula)](https://github.com/ryelbanfield/github-readme-stats)
-
-#### This is my current mood while learning code:
-
-![Happy Coding Guy](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
-
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 ![Profile views](https://gpvc.arturio.dev/RyelBanfield)
 
