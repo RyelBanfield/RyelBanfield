@@ -16,27 +16,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          # ... other options
-          config_padding: 50%
-          plugin_habits: yes
-          plugin_habits_from: 1000       # Use 200 events to compute habits
-          plugin_habits_days: 365        # Keep only events from last 365 days
-          plugin_habits_facts: yes      # Display facts section
-          plugin_habits_charts: yes     # Display charts section
-          config_timezone: Europe/Paris # Set timezone
-          plugin_followup: yes
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_languages_colors: "0:orange, javascript:#ff0000, ..." # Make most used languages orange and JavaScript red
-          plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
-          plugin_languages_threshold: 2%                               # Hides all languages less than 2%
-          plugin_lines: yes
-          plugin_people: yes
-          plugin_people_types: followers, thanks     # Display followers and "thanks" sections
-          plugin_people_limit: 28                    # Limit to 28 entries per section
-          plugin_people_size: 28                     # Size in pixels of displayed avatars
-          plugin_people_identicons: no               # Use avatars (do not use identicons)
-          plugin_people_thanks: lowlighter, octocat  # Users that will be displayed in "thanks" section
-          plugin_people_sponsors_custom: octocat     # Users that will be displayed additionally in "sponsors" section
-          plugin_people_shuffle: yes                 # Shuffle for varied output
+          
           
