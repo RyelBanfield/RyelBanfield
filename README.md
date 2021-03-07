@@ -5,7 +5,7 @@
 ![Metrics](https://github.com/RyelBanfield/RyelBanfield/blob/main/github-metrics.svg)
 
 ### My Socials:
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/ryel-banfield/)
+[<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">](https://www.linkedin.com/in/ryel-banfield/)
 
 
 <!--
