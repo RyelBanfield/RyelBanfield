@@ -17,7 +17,7 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           
-          config_padding: 100%
+          config_output: png
           
           plugin_activity: yes
           plugin_activity_limit: 5    # Limit to 5 events
