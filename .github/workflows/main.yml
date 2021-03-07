@@ -17,4 +17,41 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           
+          config_padding: 10%, 10%
+          
+          plugin_activity: yes
+          plugin_activity_limit: 5    # Limit to 5 events
+          plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
+          plugin_activity_filter: all # Show all events (use table above to filter events types)
+          
+          plugin_followup: yes
+          
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          config_timezone: Europe/Paris # Set timezone
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Display full year instead of half year
+
+          plugin_languages: yes
+          plugin_languages_ignored: html, css                          # List of languages to ignore
+          plugin_languages_skipped: my-test-repo                       # List of repositories to skip
+          plugin_languages_colors: "0:orange, javascript:#ff0000, ..." # Make most used languages orange and JavaScript red
+          plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
+          plugin_languages_threshold: 2%                               # Hides all languages less than 2%
+          
+          plugin_lines: yes
+          
+          plugin_people: yes
+          plugin_people_types: followers             # Display followers sections
+          plugin_people_limit: 28                    # Limit to 28 entries per section
+          plugin_people_size: 28                     # Size in pixels of displayed avatars
+          plugin_people_identicons: no               # Use avatars (do not use identicons)
+          plugin_people_thanks: lowlighter, octocat  # Users that will be displayed in "thanks" section
+          plugin_people_sponsors_custom: octocat     # Users that will be displayed additionally in "sponsors" section
+          plugin_people_shuffle: yes                 # Shuffle for varied output
+          
           
