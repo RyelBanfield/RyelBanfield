@@ -1,13 +1,17 @@
-# UNDER CONSTRUCTION. 
+# UNDER CONSTRUCTION.
+
+### <img src="assets/Banner-flicker.gif">
 
 ![Metrics](https://github.com/RyelBanfield/RyelBanfield/blob/main/github-metrics.svg)
+
+### My Socials:
+![<img src="assets/linkedin.svg">](https://www.linkedin.com/in/ryel-banfield/)
+
 
 <!--
 ### <img src="assets/Banner-flicker.gif">
 
 ## Hey! 👋
-
-### <img src="assets/Banner-flicker.gif">
 
 ### GitHub stats:
 
