@@ -1,0 +1,48 @@
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
+  push: {branches: ["master", "main"]}
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          base: header, repositories       # Only display "header" and "repositories" sections
+          repositories: 100                # Query only last 100 repositories
+          repositories_forks: no           # Don't include forks
+          repositories_affiliations: owner # Display only repositories where user is owner
+          
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          config_timezone: Europe/Paris # Set timezone
+
+          plugin_languages: yes
+          plugin_languages_ignored: html, css                          # List of languages to ignore
+          plugin_languages_skipped: my-test-repo                       # List of repositories to skip
+          plugin_languages_colors: "0:orange, javascript:#ff0000, ..." # Make most used languages orange and JavaScript red
+          plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
+          plugin_languages_threshold: 2%                               # Hides all languages less than 2%
+
+          plugin_people: yes
+          plugin_people_types: followers             # Display followers sections
+          plugin_people_limit: 28                    # Limit to 28 entries per section
+          plugin_people_size: 28                     # Size in pixels of displayed avatars
+          plugin_people_identicons: no               # Use avatars (do not use identicons)
+          plugin_people_thanks: lowlighter, octocat  # Users that will be displayed in "thanks" section
+          plugin_people_sponsors_custom: octocat     # Users that will be displayed additionally in "sponsors" section
+          plugin_people_shuffle: yes                 # Shuffle for varied output
+          
+          
