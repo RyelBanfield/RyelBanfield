@@ -7,7 +7,7 @@ on:
     - cron: "0 0 * * *"
     
 jobs:
-  devcard:
+  DevCard:
     runs-on: ubuntu-latest
     steps:
       - name: devcard
