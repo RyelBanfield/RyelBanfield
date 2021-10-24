@@ -25,6 +25,6 @@
 
 ![Ryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryelbanfield&show_icons=true&theme=dracula)
 
-<img src="https://raw.githubusercontent.com/RyelBanfield/RyelBanfield/5dd5caf0a3fb176f9a5287f11e8d51778ff51351/devcard.svg" width="400"/>
+<!-- <img src="https://raw.githubusercontent.com/RyelBanfield/RyelBanfield/5dd5caf0a3fb176f9a5287f11e8d51778ff51351/devcard.svg" width="400"/> -->
 
 ![Ryel's Profile views](https://gpvc.arturio.dev/RyelBanfield)
