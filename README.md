@@ -28,10 +28,15 @@
 <!-- <img src="https://raw.githubusercontent.com/RyelBanfield/RyelBanfield/5dd5caf0a3fb176f9a5287f11e8d51778ff51351/devcard.svg" width="400"/> -->
 
 # 💫About Me :
-👨🏽‍💻 I'm currently working on a CRM software solution using NextJS & MongoDB.
-🙋🏽‍♂️ I'm looking to collaborate on anything interesting.
-🤓 I'm currently learning Shopify App Development.
-🏎 I'm a Ferrari fan.
+🦾 Bootcamp Grad (But let's be honest, I paid $15K for them to point me to Google/YouTube).
+
+👨🏽‍💻 Currently working on a CRM software solution using NextJS & MongoDB.
+
+👀 Looking to collaborate on anything interesting.
+
+🤓 Currently learning Shopify App Development.
+
+🏎 I'm a Formula 1 and Ferrari fan.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryel-banfield) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ryelxjs) 
