@@ -32,11 +32,9 @@
 
 👨🏽‍💻 Currently working on a CRM software solution using NextJS & MongoDB.
 
-👀 Looking to collaborate on anything interesting.
+🤓 Currently learning Shopify App Development while building my startup, RCB Software LLC.
 
-🤓 Currently learning Shopify App Development.
-
-🏎 I'm a Formula 1 and Ferrari fan.
+🏎 I'm a Formula 1 and Ferrari fan and also working on a React Native F1 app as a side project.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryel-banfield) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ryelxjs) 
