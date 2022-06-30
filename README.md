@@ -30,11 +30,11 @@
 # 💫 About Me
 🦾 Bootcamp Grad (But let's be honest, I paid $15K for them to point me to Google/YouTube).
 
-👨🏽‍💻 Currently working on a CRM software solution using NextJS & MongoDB.
+👨🏽‍💻 Currently contracted to build a CRM software solution using NextJS & MongoDB.
 
-🤓 Currently learning Shopify App Development while building my startup, RCB Software LLC.
+🤓 Working on learning Shopify App Development while building my startup, RCB Software LLC.
 
-🏎 I'm a Formula 1 and Ferrari fan and also working on a React Native F1 app as a side project.
+🏎 I'm also working on a React Native (Expo) F1 app as a side projectas I'm a huge F1 fan.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryel-banfield) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ryelxjs) 
