@@ -34,7 +34,7 @@
 
 🤓 Working on learning Shopify App Development while building my startup, RCB Software LLC.
 
-🏎 I'm also working on a React Native (Expo) F1 app as a side projectas I'm a huge F1 fan.
+🏎 I'm also working on a React Native (Expo) F1 app as a side project as I'm a huge F1 fan.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryel-banfield) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ryelxjs) 
