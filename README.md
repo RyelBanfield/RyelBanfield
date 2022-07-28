@@ -30,9 +30,9 @@
 # 💫 About Me
 🦾 Bootcamp Grad (But let's be honest, I paid $15K for them to point me to Google/YouTube).
 
-👨🏽‍💻 Currently contracted to build a CRM software solution using NextJS & MongoDB.
+👨🏽‍💻 Currently working as a freelancer although I am open to impactful positions.
 
-🤓 Working on learning Shopify App Development while building my startup, RCB Software LLC.
+🤓 Working on learning Shopify App Development while building my startup, RCB Software.
 
 🏎 I'm also working on a React Native (Expo) F1 app as a side project as I'm a huge F1 fan.
 
