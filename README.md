@@ -28,7 +28,7 @@
 <!-- <img src="https://raw.githubusercontent.com/RyelBanfield/RyelBanfield/5dd5caf0a3fb176f9a5287f11e8d51778ff51351/devcard.svg" width="400"/> -->
 
 # 💫 About Me
-🦾 Bootcamp Grad (But let's be honest, I paid $15K for them to point me to Google/YouTube).
+🦾 Full Stack Developer working with TypeScript, Next.js, TailwindCSS, NextAuth & Prisma.
 
 👨🏽‍💻 Currently working as a freelancer although I am open to impactful positions.
 
