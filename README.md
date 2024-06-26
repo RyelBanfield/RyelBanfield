@@ -62,15 +62,13 @@
 <!-- ![Ryel's Profile views](https://gpvc.arturio.dev/RyelBanfield) -->
 
 # Ryel Banfield
-### Solving real-world problems by building type-safe, impactful web and mobile applications.
+### Solving problems by building type-safe, impactful web applications.
 
-⤷ A Full Stack Developer with 3+ years of experience and a track record of building successful web and mobile applications. With my skills and experience, I am able to solve real-world problems and deliver high-quality results.
+⤷ A full-stack developer with 3+ years of experience. I like building cool things on the web.
 
  <a aligh="left" href="https://ryelbanfield.me" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:ryelbanfield@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/ryelxjs" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/ryel-banfield" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
 ⚐ Based in the Caribbean
-
-ϟ Currently building too many things at once
 
 ϟ Focusing on Next.js
 
