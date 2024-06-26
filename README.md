@@ -61,7 +61,7 @@
 
 <!-- ![Ryel's Profile views](https://gpvc.arturio.dev/RyelBanfield) -->
 
-### Solving problems by building type-safe, impactful web applications.
+### Solving problems by building impactful web applications.
 
 ⤷ A full-stack developer with 3+ years of experience.
 
