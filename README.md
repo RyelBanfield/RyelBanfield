@@ -64,9 +64,7 @@
 # Ryel Banfield
 ### Solving problems by building type-safe, impactful web applications.
 
-⤷ A full-stack developer with 3+ years of experience. I like building cool things on the web.
-
- <a aligh="left" href="https://ryelbanfield.me" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:ryelbanfield@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/ryelxjs" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/ryel-banfield" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+⤷ A full-stack developer with 3+ years of experience.
 
 ⚐ Based on Earth and working fully remotely.
 
