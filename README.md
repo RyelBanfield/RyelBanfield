@@ -65,6 +65,6 @@
 
 ⤷ A full-stack developer with 3+ years of experience.
 
-⚐ Based on Earth and working fully remotely.
+⚐ Working fully remotely.
 
 ϟ Focusing on Next.js, TailwindCSS, Framer Motion & Supabase.
